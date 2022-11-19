@@ -35,15 +35,15 @@ __**Task 1**__ Menstrüel Döngü Quiz’i Cevaplar
 - a) <https://github.com/melisaesenn/BEIJE/blob/master/WebSayfas%C4%B1/BEIJEQUIZRAPOR.pdf>
 <br>
 
-![mainpage](Resimler\mainpage.png)
+![mainpage](Resimler/mainpage.png)
 <br>
 <br>
 
-![results](Resimler\results.png)
+![results](Resimler/results.png)
 <br>
 <br>
 
-![beijepage](Resimler\beijepage.png)
+![beijepage](Resimler/beijepage.png)
 
 
 - b) ve c) <https://github.com/melisaesenn/BEIJE/blob/master/BEIJETask1.ipynb>
