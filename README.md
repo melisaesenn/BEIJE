@@ -26,5 +26,17 @@ yöntem ve değerleri detaylı bir şekilde açıklamanı isteyeceğiz.
 __**Task 2**__  Supply Chain Analytics & Forecasting <br>
 BEIJE, ürünlerini yurtdışından belirli aralıklarla, arz ve talep dengesini sağlayacak ileriye dönük “forecast”lar ile belirlerdiği tarih aralığı ve ürün miktarları ile ihraç etmekte. Bu bağlantıda
 bulabileceğin dökümanın ikinci sekmesi, BEIJE’in geriye dönük aylık olarak ürün bazlı satışlarını ve dönem sonu stoklarını göstermekte. Bu veri ışığında, BEIJE için sipariş vermesi gereken miktar ve aralıklarla hakkında bir resim çizmeni istiyoruz.
+<br>
+<br>
+<br>
+<br>
 
+__**Task 1**__ Menstrüel Döngü Quiz’i Cevaplar
+- a) <https://github.com/melisaesenn/BEIJE/blob/master/WebSayfas%C4%B1/BEIJEQUIZRAPOR.pdf>
+
+- b) ve c) <https://github.com/melisaesenn/BEIJE/blob/master/BEIJETask1.ipynb>
+
+__**Task 2**__ Supply Chain Analytics & Forecasting Cevap
+
+- <https://github.com/melisaesenn/BEIJE/blob/master/BEIJETask1.ipynb>
 
