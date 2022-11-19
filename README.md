@@ -50,5 +50,5 @@ __**Task 1**__ Menstrüel Döngü Quiz’i Cevaplar
 
 __**Task 2**__ Supply Chain Analytics & Forecasting Cevap
 
-- <https://github.com/melisaesenn/BEIJE/blob/master/BEIJETask1.ipynb>
+- <https://github.com/melisaesenn/BEIJE/blob/master/BEIJETask2.ipynb>
 
