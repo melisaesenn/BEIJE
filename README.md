@@ -34,6 +34,9 @@ bulabileceğin dökümanın ikinci sekmesi, BEIJE’in geriye dönük aylık ola
 __**Task 1**__ Menstrüel Döngü Quiz’i Cevaplar
 - a) <https://github.com/melisaesenn/BEIJE/blob/master/WebSayfas%C4%B1/BEIJEQUIZRAPOR.pdf>
 <br>
+https://github.com/melisaesenn/BEIJE/tree/master/WebSayfas%C4%B1
+
+<br>
 
 ![mainpage](Resimler/mainpage.png)
 <br>
